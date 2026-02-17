@@ -1,4 +1,4 @@
-import stramlit as st
+import streamlit as st
 books = ["The Hobbit", "Pride and Prejudice", "1984-George Orwell", "The Catcher in the Rye", "The Alchemist"]
 st.title("Book Checker App")
 st.write("Enter a book title to check if it exists in the database.")
